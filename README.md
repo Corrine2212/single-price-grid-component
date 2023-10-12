@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-using-html-and-css-tqaGhmCZ8O
+- Solution URL: https://www.frontendmentor.io/solutions/single-price-grid-component-using-html-and-css-N6HTVuwQDr
 - Live page: https://corrine2212.github.io/single-price-grid-component/
 
 ## My process
